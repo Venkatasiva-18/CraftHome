@@ -151,6 +151,6 @@ Then Add Email, Username and Password
 
 ## For Sponsor or Projects Enquiry
 1. Email - venkatasivaragala@gmail.com
-2. LinkedIn - [venkata siva](linkedin.com/in/venkata-siva-ragala
-")
+2. LinkedIn - [venkata siva]((https://www.linkedin.com/in/venkata-siva-ragala/))
+
 
